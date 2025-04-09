@@ -19,7 +19,7 @@ Este es un proyecto simple llamado **LogWeb** que usa Node.js y Express para cre
 4. Asegúrate de tener una imagen llamada `imagen.jpg` en la carpeta `public`.
 
 ## Uso
-1. Inicia el servidor: `npm start`.
+1. Inicia el servidor: `npm src/start`.
 2. Abre tu navegador en `http://localhost:3000`.
 3. Haz clic en el botón "Registrar Log" para ver cómo se guardan los logs.
 
