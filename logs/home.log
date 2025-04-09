@@ -1,0 +1,63 @@
+{"level":"info","message":"La aplicación está corriendo en el puerto 3000","timestamp":"2025-04-09T09:52:07.580Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T09:52:12.019Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:09:52:12 +0000] \"GET / HTTP/1.1\" 404 222 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0\"","timestamp":"2025-04-09T09:52:12.033Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:09:52:12 +0000] \"GET /logo.png HTTP/1.1\" 404 147 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0\"","timestamp":"2025-04-09T09:52:12.287Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:09:52:12 +0000] \"GET /logo.png HTTP/1.1\" 404 147 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0\"","timestamp":"2025-04-09T09:52:12.302Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:09:52:12 +0000] \"GET /logo.png HTTP/1.1\" 404 147 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0\"","timestamp":"2025-04-09T09:52:12.316Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T09:52:23.708Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:09:52:23 +0000] \"GET / HTTP/1.1\" 404 222 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\"","timestamp":"2025-04-09T09:52:23.710Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T09:55:24.585Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:09:55:24 +0000] \"GET / HTTP/1.1\" 404 222 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\"","timestamp":"2025-04-09T09:55:24.588Z"}
+{"level":"info","message":"La aplicación está corriendo en el puerto 3000","timestamp":"2025-04-09T09:55:31.639Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T09:55:33.944Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:09:55:33 +0000] \"GET / HTTP/1.1\" 404 215 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\"","timestamp":"2025-04-09T09:55:33.951Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T09:55:35.095Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:09:55:35 +0000] \"GET / HTTP/1.1\" 404 215 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\"","timestamp":"2025-04-09T09:55:35.097Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T09:55:35.263Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:09:55:35 +0000] \"GET / HTTP/1.1\" 404 215 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\"","timestamp":"2025-04-09T09:55:35.265Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T09:55:35.447Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:09:55:35 +0000] \"GET / HTTP/1.1\" 404 215 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\"","timestamp":"2025-04-09T09:55:35.450Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T09:55:35.628Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:09:55:35 +0000] \"GET / HTTP/1.1\" 404 215 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\"","timestamp":"2025-04-09T09:55:35.630Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T09:55:35.783Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:09:55:35 +0000] \"GET / HTTP/1.1\" 404 215 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\"","timestamp":"2025-04-09T09:55:35.786Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T09:55:35.952Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:09:55:35 +0000] \"GET / HTTP/1.1\" 404 215 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\"","timestamp":"2025-04-09T09:55:35.955Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T09:55:36.131Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:09:55:36 +0000] \"GET / HTTP/1.1\" 404 215 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\"","timestamp":"2025-04-09T09:55:36.134Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T09:55:36.298Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:09:55:36 +0000] \"GET / HTTP/1.1\" 404 215 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\"","timestamp":"2025-04-09T09:55:36.301Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T09:55:36.479Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:09:55:36 +0000] \"GET / HTTP/1.1\" 404 215 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\"","timestamp":"2025-04-09T09:55:36.482Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T09:55:36.671Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:09:55:36 +0000] \"GET / HTTP/1.1\" 404 215 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\"","timestamp":"2025-04-09T09:55:36.673Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T09:55:36.850Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:09:55:36 +0000] \"GET / HTTP/1.1\" 404 215 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\"","timestamp":"2025-04-09T09:55:36.853Z"}
+{"level":"info","message":"La aplicación está corriendo en el puerto 3000","timestamp":"2025-04-09T09:56:16.602Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T09:56:18.729Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:09:56:18 +0000] \"GET / HTTP/1.1\" 404 233 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\"","timestamp":"2025-04-09T09:56:18.736Z"}
+{"level":"info","message":"La aplicación está corriendo en el puerto 3000","timestamp":"2025-04-09T10:33:54.364Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T10:34:05.368Z"}
+{"level":"info","message":"La aplicación está corriendo en el puerto 3000","timestamp":"2025-04-09T10:34:18.992Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T10:34:21.355Z"}
+{"level":"info","message":"La aplicación está corriendo en el puerto 3000","timestamp":"2025-04-09T10:39:01.774Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T10:39:12.560Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:10:39:12 +0000] \"GET /public/img/logoMichiBoom.jpg HTTP/1.1\" 404 167 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\"","timestamp":"2025-04-09T10:39:12.670Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:10:39:12 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\"","timestamp":"2025-04-09T10:39:12.717Z"}
+{"level":"info","message":"Usuario hizo clic en el botón de log","page":"home","timestamp":"2025-04-09T10:39:19.561Z"}
+{"level":"info","message":"La aplicación está corriendo en el puerto 3000","timestamp":"2025-04-09T10:40:13.506Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T10:40:17.132Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:10:40:17 +0000] \"GET /public/img/logoMichiBoom.jpg HTTP/1.1\" 404 167 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\"","timestamp":"2025-04-09T10:40:17.184Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T10:40:17.873Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:10:40:17 +0000] \"GET /public/img/logoMichiBoom.jpg HTTP/1.1\" 404 167 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\"","timestamp":"2025-04-09T10:40:17.909Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T10:40:18.048Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:10:40:18 +0000] \"GET /public/img/logoMichiBoom.jpg HTTP/1.1\" 404 167 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\"","timestamp":"2025-04-09T10:40:18.076Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T10:40:18.247Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:10:40:18 +0000] \"GET /public/img/logoMichiBoom.jpg HTTP/1.1\" 404 167 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\"","timestamp":"2025-04-09T10:40:18.273Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T10:40:18.404Z"}
+{"level":"info","message":"::1 - - [09/Apr/2025:10:40:18 +0000] \"GET /public/img/logoMichiBoom.jpg HTTP/1.1\" 404 167 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\"","timestamp":"2025-04-09T10:40:18.442Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T10:40:59.502Z"}
+{"level":"info","message":"La aplicación está corriendo en el puerto 3000","timestamp":"2025-04-09T10:43:41.043Z"}
+{"level":"info","message":"Alguien visitó la página principal","page":"home","timestamp":"2025-04-09T10:44:05.513Z"}
+{"level":"info","message":"Usuario hizo clic en el botón de log","page":"home","timestamp":"2025-04-09T10:44:06.517Z"}
+{"level":"info","message":"Usuario hizo clic en el botón de log","page":"home","timestamp":"2025-04-09T10:44:10.139Z"}
